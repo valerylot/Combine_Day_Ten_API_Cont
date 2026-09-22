@@ -31,3 +31,4 @@
 /Users/valerylot/Desktop/CodeStack Combine /Day 10/Combine_Day_Ten_API_Cont/obj/Debug/net10.0/Combine_Day_Ten_API_Cont.pdb
 /Users/valerylot/Desktop/CodeStack Combine /Day 10/Combine_Day_Ten_API_Cont/obj/Debug/net10.0/Combine_Day_Ten_API_Cont.genruntimeconfig.cache
 /Users/valerylot/Desktop/CodeStack Combine /Day 10/Combine_Day_Ten_API_Cont/obj/Debug/net10.0/ref/Combine_Day_Ten_API_Cont.dll
+/Users/valerylot/Desktop/CodeStack Combine /Day 10/Combine_Day_Ten_API_Cont/obj/Debug/net10.0/Combine_Day_Ten_API_Cont.sourcelink.json
